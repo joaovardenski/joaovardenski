@@ -6,12 +6,24 @@ Bem-vindo ao meu perfil do GitHub! Me chamo João Victor e sou um entusiasta na 
 
 ![programmers-go-internet](https://github.com/joaovardenski/joaovardenski/assets/126905465/91ae63fa-e63d-4e5d-9264-66fbf4ca5c2d)
 
+### 😄 Sobre Mim
+
+Tenho 18 anos, moro em Ponta Grossa - PR, desde cedo tive muito contato com tecnologia, então a paixão pela área vem de muito tempo atrás, me encontrei em TI e hoje sigo estudando todos os dias para melhorar tanto minhas hard skills como soft skills, amo jogar futebol, futsal, jogos online, e também gosto muito de pets!
+
+Espero que goste de explorar meu perfil! Sinta-se à vontade para entrar em contato e vamos colaborar em algo incrível juntos! 🚀
+
 
 ### 🔧 Tecnologias & Ferramentas
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" height="60"/>
           
+
+### 👨‍💻 Projetos pessoais
+
+- [Cápsula do tempo](https://joaovardenski.github.io/nlw-spacetime/)
+- [Jogo do número secreto](https://jogo-numero-secreto-six-indol.vercel.app/)
+- [Redes sociais](https://joaovardenski.github.io/redes-sociais/)
 
 ### 🌱 Atualmente Estou Aprendendo
 
