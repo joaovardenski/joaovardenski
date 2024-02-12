@@ -43,9 +43,9 @@ Espero que goste de explorar meu perfil! Sinta-se à vontade para entrar em cont
 
 ### 📫 Como Me Encontrar
 
-- LinkedIn: [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-victor-vardenski-de-andrade-950290280/)
-- Twitter: [Twitter](https://twitter.com/VardenskiVictor)
-- Instagram: [Instagram](https://www.instagram.com/joaovardenski/)
+- LinkedIn: [João Victor Vardenski de Andrade](https://www.linkedin.com/in/jo%C3%A3o-victor-vardenski-de-andrade-950290280/)
+- Twitter: [VardenskiVictor](https://twitter.com/VardenskiVictor)
+- Instagram: [joaovardenski](https://www.instagram.com/joaovardenski/)
 
 ### 😄 Sobre Mim
 
