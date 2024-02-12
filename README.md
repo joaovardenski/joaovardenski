@@ -10,19 +10,19 @@ Bem-vindo ao meu perfil do GitHub! Me chamo João Victor e sou um entusiasta na 
 ### 🔧 Tecnologias & Ferramentas
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
           
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
           
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
           
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
           
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="40" height="40"/>
           
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="40" height="40"/>
           
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
           
 
 ### 🌱 Atualmente Estou Aprendendo
@@ -44,8 +44,8 @@ Bem-vindo ao meu perfil do GitHub! Me chamo João Victor e sou um entusiasta na 
 ### 📫 Como Me Encontrar
 
 - LinkedIn: [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-victor-vardenski-de-andrade-950290280/)
-- Twitter: [[Twitter]](https://twitter.com/VardenskiVictor)
-- Instagram: [[Instagram]](https://www.instagram.com/joaovardenski/)
+- Twitter: [Twitter](https://twitter.com/VardenskiVictor)
+- Instagram: [Instagram](https://www.instagram.com/joaovardenski/)
 
 ### 😄 Sobre Mim
 
