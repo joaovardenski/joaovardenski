@@ -10,8 +10,6 @@ Bem-vindo ao meu perfil do GitHub! Me chamo João Victor e sou um entusiasta na 
 
 Tenho 18 anos, moro em Ponta Grossa - PR, desde cedo tive muito contato com tecnologia, então a paixão pela área vem de muito tempo atrás, me encontrei em TI e hoje sigo estudando todos os dias para melhorar tanto minhas hard skills como soft skills, amo jogar futebol, futsal, jogos online, e também gosto muito de pets!
 
-Espero que goste de explorar meu perfil! Sinta-se à vontade para entrar em contato e vamos colaborar em algo incrível juntos! 🚀
-
 
 ### 🔧 Tecnologias & Ferramentas
 
@@ -46,9 +44,5 @@ Espero que goste de explorar meu perfil! Sinta-se à vontade para entrar em cont
 - LinkedIn: [João Victor Vardenski de Andrade](https://www.linkedin.com/in/jo%C3%A3o-victor-vardenski-de-andrade-950290280/)
 - Twitter: [VardenskiVictor](https://twitter.com/VardenskiVictor)
 - Instagram: [joaovardenski](https://www.instagram.com/joaovardenski/)
-
-### 😄 Sobre Mim
-
-Tenho 18 anos, moro em Ponta Grossa - PR, desde cedo tive muito contato com tecnologia, então a paixão pela área vem de muito tempo atrás, me encontrei em TI e hoje sigo estudando todos os dias para melhorar tanto minhas hard skills como soft skills, amo jogar futebol, futsal, jogos online, e também gosto muito de pets!
 
 Espero que goste de explorar meu perfil! Sinta-se à vontade para entrar em contato e vamos colaborar em algo incrível juntos! 🚀
