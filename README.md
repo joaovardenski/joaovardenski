@@ -2,13 +2,13 @@
 
 ## 👋 Apresentação
 
-Bem-vindo ao meu perfil do GitHub! Me chamo João Victor e sou um entusiasta na área de TI, atualmente curso Engenharia de Software na UEPG, buscando oportunidades para ingressar no mercado de TI.
+Bem-vindo ao meu perfil do GitHub! Me chamo João Victor e sou um entusiasta na área de TI, atualmente curso Engenharia de Software na UEPG, e estou buscando oportunidades para ingressar no mercado de TI.
 
 ![programmers-go-internet](https://github.com/joaovardenski/joaovardenski/assets/126905465/91ae63fa-e63d-4e5d-9264-66fbf4ca5c2d)
 
 ### 😄 Sobre Mim
 
-Tenho 18 anos, moro em Ponta Grossa - PR, desde cedo tive muito contato com tecnologia, então a paixão pela área vem de muito tempo atrás, me encontrei em TI e hoje sigo estudando todos os dias para melhorar tanto minhas hard skills como soft skills, amo jogar futebol, futsal, jogos online, e também gosto muito de pets!
+Tenho 19 anos, moro em Ponta Grossa - PR, desde cedo tive muito contato com tecnologia, então a paixão pela área vem de muito tempo atrás, me encontrei em TI e hoje sigo estudando todos os dias para melhorar tanto minhas hard skills como soft skills, amo jogar futebol, jogos online, e também gosto muito de pets!
 
 
 ### 🔧 Tecnologias & Ferramentas
@@ -19,17 +19,17 @@ Tenho 18 anos, moro em Ponta Grossa - PR, desde cedo tive muito contato com tecn
 
 ### 👨‍💻 Projetos pessoais
 
+- [Gerênciador de tarefas](https://gerenciador-de-tarefas-nu-two.vercel.app/)
 - [Cápsula do tempo](https://joaovardenski.github.io/nlw-spacetime/)
 - [Jogo do número secreto](https://jogo-numero-secreto-six-indol.vercel.app/)
-- [Redes sociais](https://joaovardenski.github.io/redes-sociais/)
 
 ### 🌱 Atualmente Estou Aprendendo
 
-- No momento estou aprimorando minhas habilidades em HTML e CSS, também aprendendo utilizar JavaScript em aplicações web, e também estudando gestão ágil de projetos.
+- No momento estou estudando React, juntamente com TypeScript, e também aprimorando minhas habilidades com Git e Github.
 
 ### 🤝 Estou Procurando Colaborar Em
 
-- Projetos web para que possa aprimorar minhas habilidades assim aperfeiçoando-as.
+- Projetos web para que possam aprimorar minhas habilidades na área de Front-End.
 
 ### 📈 Estatísticas do GitHub
 
