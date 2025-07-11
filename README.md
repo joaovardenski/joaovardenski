@@ -4,17 +4,16 @@
 
 Bem-vindo ao meu perfil do GitHub! Me chamo João Victor e sou um entusiasta na área de TI, atualmente curso Engenharia de Software na UEPG, e estou buscando oportunidades para ingressar no mercado de TI.
 
-![programmers-go-internet](https://github.com/joaovardenski/joaovardenski/assets/126905465/91ae63fa-e63d-4e5d-9264-66fbf4ca5c2d)
 
 ### 😄 Sobre Mim
 
-Tenho 19 anos, moro em Ponta Grossa - PR, desde cedo tive muito contato com tecnologia, então a paixão pela área vem de muito tempo atrás, me encontrei em TI e hoje sigo estudando todos os dias para melhorar tanto minhas hard skills como soft skills, amo jogar futebol, jogos online, e também gosto muito de pets!
+Tenho 20 anos, moro em Ponta Grossa - PR, desde cedo tive muito contato com tecnologia, então a paixão pela área vem de muito tempo atrás, me encontrei em TI e hoje sigo estudando todos os dias para melhorar tanto minhas hard skills como soft skills, amo jogar futebol, jogos online, e também gosto muito de pets!
 
 
 ### 🔧 Tecnologias & Ferramentas
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" height="60"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="70" height="70"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="60" height="60"/>
           
 
 ### 👨‍💻 Projetos pessoais
@@ -25,7 +24,7 @@ Tenho 19 anos, moro em Ponta Grossa - PR, desde cedo tive muito contato com tecn
 
 ### 🌱 Atualmente Estou Aprendendo
 
-- No momento estou estudando React, juntamente com TypeScript, e também aprimorando minhas habilidades com Git e Github.
+- No momento estou me aprofundando em desenvolvimento web com ReactJS, TypeScript, Tailwind, e também aprimorando minhas habilidades com Git e Github.
 
 ### 🤝 Estou Procurando Colaborar Em
 
